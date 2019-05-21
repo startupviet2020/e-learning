@@ -1,0 +1,15 @@
+{
+    "require": {
+        "corneltek/cliframework": "*",
+        "nategood/httpful": "*",
+        "monolog/monolog": "*",
+        "phpoffice/phpexcel": "*",
+        "facebook/graph-sdk": "^5.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "HV": "libs",
+            "EInvoice": "libs"
+        }
+    }
+}

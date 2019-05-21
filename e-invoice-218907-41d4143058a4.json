@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-invoice-218907",
+  "private_key_id": "41d4143058a4eb0c7525ebaa69fb1efe9163b87b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcXsMQoLJJzp+7\nRUsQMfyxAx+fwQdi+zGlt32/98yQZnqtb43wJDAFVyP/oD/Nexucc9RQkzWZpLtf\nGtyanpQBxr4bk6jACTIPX+CkEWWpC76wzw4fev8cxmhk3Ugha/Lv1tNKSgvE0rcL\nsy8y9+v0YkUxdpDtvy8oOb1KYiyJqU+IX+i8iDhcNJ+hOgWdHTeeNWiN+s9mduxz\nz1V+Bje2b7cBj6x//seTuu2wDiJ8Qt1ps6DJMMtAzzsKm08bMb4mLEitci9zAFsd\nyAYEdAIYqF/bFnfkws1Lk2/Ncp+IlccY/m/Ernx54ublxIBSY6C0UFTh6HEy0f4O\nm+7DbqvZAgMBAAECggEAEFRlEot1kvec/rWRzTMrLGEjIE/MMa4B1UiAPVfnaP0K\nuqn3rKhay3P6MmvNveupSoFeHrwA0Pa/CoOHni4JTtYubDrTWJqdO7XLg9a9QxYS\n5+v3kZoKojqmFEJ3keXwDNPmZM+uwvMuYm5n826omXDZwPyczfc1OYIuHmJ6PDXk\nQmHkqwsQCkRVCTlm8lLKpiKKy0X7715bKMJueDdf+TDzhJOi6IJkVAVEvj7dS3m2\nDHRz+xvKZjEYHs8CWNx/yxPH918aBc8jjSYd3n3XI/O8bL90aUNVX3DQjZKwF3BW\nqBVRpmi0aRQqR3dlE6IH40ibQuuKxyiRLKGx8qooMQKBgQDaK/q3jCrGScfEaG71\nQ/pz1m4CGMHyqtG/T+OwanNuD8FixSMzucxk045QFysjn8EJYppjHv3fqDbY5olL\nHm3ED0HAyChohYClHfeX83DSy0Pk1JQciSI+xhc8nZ79/d4rnEA2fdWzDTF58tzY\nnrwvAMA/Tx6G4g9WnQvw7aHOvwKBgQC3e5XarGkAKU2cn1dmsHLsvdwDV2sqCTZc\n5vcxxRp8bQrq2KijaRWgmmkImADvz9OdCT/Tmb/OWJOonZgue/xb9Pfh/6f8Ttut\nKTJRd10LoCyofekaPw8tUHAUuYFtZP8ycC0HA7qbkvlqt+RX10wLT+W4rVD1b5tK\nomGDSGfDZwKBgQDQxHTNXpsv0zoNf8FtgPcQEYiDCR3OEBdVciT2k2aRUxJCaVIe\nFRS5BpePnBvzotMdH/WMFAPrGRQiybdm4l821UKeLuo72kQXvG1IQfMcQtVdCu4P\nwEm8t+FUZ5/UfDE0mff4LMFo7J8Dipo5zutULuvHqPYVLAxxXSYoDbxgEQKBgD6N\npKY7l0SV0D7wV/TLfTLW+5YsDH31TBJaL7ZJE2GOL2WnXb7wSY5KdjqWz+LyQJvO\nFnOGfEzWB+k5aTOX045qMsRay6OKIvyjCeOaRR98iR0caAcprnvta3i1UbnA7/v7\nIG6+x7TYY64NaYzE+sj0gUX32J0EYrYMLCB849tLAoGBANOFp4N23sV1uk195ds4\nuNy1UrRTZ7JjOXoUYa7fGKy9uOxFIgDVXFVOxiYeiYnJ/Iy/lrawclSXmkBFal4A\nZJsOWux1CSwBbP0lcgaONKFNnmIJWG5GAk3OAo0fdjjyk3WzoaWjhleDOD9lZMA1\n4kq7nzbWMmoYdT1841CKq0u9\n-----END PRIVATE KEY-----\n",
+  "client_email": "einvoice-mysql-client@e-invoice-218907.iam.gserviceaccount.com",
+  "client_id": "103554070469809661437",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/einvoice-mysql-client%40e-invoice-218907.iam.gserviceaccount.com"
+}
